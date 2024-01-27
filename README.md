@@ -1,4 +1,4 @@
-# Meeting API Documentation
+# How to get Started
 
 This document outlines the UI for the Resolution Action System, with a focus on meeting-related operations. The system has been developed using Next.js with TypeScript
 Live live site url running on vercel is https://meeting-app-client.vercel.app
